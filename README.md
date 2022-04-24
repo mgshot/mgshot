@@ -5,6 +5,7 @@ Web Developer And Bot Developer
 I've been learning to code for 5 years, after switching careers. I started with HTML and Python, But have really found a passion for backend development 😊  
 * 🌍  I'm based in Canada 
 * 🧠  I'm learning Flutter and Django
+<img src="https://komarev.com/ghpvc/?username=Mg_shot&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="Mg_shot" /> 
 
 ### Skills
 
