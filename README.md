@@ -6,7 +6,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 * 🌍  I'm based in Canada 
 * 🧠  I'm learning Flutter and Django
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mgshot&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="mgshot" /> 
+<img src="https://komarev.com/ghpvc/?username=mgshot&label=Profile%20views&color=blueviolet&style=for-the-badge&" alt="mgshot" /> 
 </div>
 
 ### Skills
