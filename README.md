@@ -1,4 +1,10 @@
-Hi 👋 My name is Mg\_shot =========================  Web Developer And Bot Developer -------------------------------  I've been learning to code for 5 years, after switching careers. I started with HTML and Python, But have really found a passion for backend development 😊  * 🌍  I'm based in Canada * 🧠  I'm learning Flutter and Django
+Hi 👋 My name is Mg\_shot 
+=========================  
+Web Developer And Bot Developer 
+-------------------------------  
+I've been learning to code for 5 years, after switching careers. I started with HTML and Python, But have really found a passion for backend development 😊  
+* 🌍  I'm based in Canada 
+* 🧠  I'm learning Flutter and Django
 
 ### Skills
 
